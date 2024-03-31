@@ -26,24 +26,21 @@ Nous sommes ravies de partager notre travail et nous espérons que ce simulateur
 Le développement de notre simulateur de carnet d'ordres est divisé en plusieurs étapes clés, chacune abordant un aspect spécifique de la simulation des marchés financiers.
 
 ## Étape 1 : Modèle de Données
-Nous avons commencé par définir les structures de données de base, y compris la représentation des ordres et du carnet d'ordres. Ceci est essentiel pour capturer avec précision les informations du marché et pour assurer une base solide pour le simulateur.
+Nous avons commencé par définir les structures de données de base, y compris la représentation des ordres et du carnet d'ordres. Ceci est essentiel pour capturer avec précision les informations du marché et pour assurer une base solide pour le simulateur. Ensuite, nous avons implémenté la logique pour ajouter des ordres au carnet et pour correspondre les ordres entre eux. Cette fonctionnalité est au cœur du simulateur, permettant de simuler la dynamique du marché.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lequipedepython/lequipedepythonprojet/main?labpath=etape1.ipynb)
 
-## Étape 2 : Logique de Base du Carnet d'Ordres
-Une fois le modèle de données en place, nous avons implémenté la logique pour ajouter des ordres au carnet, ainsi que la logique de correspondance des ordres. Cette fonctionnalité est au coeur du simulateur, permettant de simuler la dynamique du marché.
-
-## Étape 3 : Mécanisme de Fixing
+## Étape 2 : Mécanisme de Fixing
 Ici, nous avons intégré un mécanisme de fixing pour simuler le processus de fixation des prix d'ouverture et de clôture sur les marchés financiers, une étape clé pour les marchés qui ne sont pas continuellement actifs.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lequipedepython/lequipedepythonprojet/main?labpath=etape2.ipynb)
 
-## Étape 4 : Interface Utilisateur Simplifiée
+## Étape 3 : Interface Utilisateur Simplifiée
 Pour intéragir avec le simulateur, nous avons créé une interface utilisateur simple, permettant aux utilisateurs de soumettre des ordres et de visualiser le carnet d'ordres en temps réel.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lequipedepython/lequipedepythonprojet/main?labpath=etape3.ipynb)
 
-## Étape 5 : Améliorations et Finalisation
+## Étape 4 : Améliorations et Finalisation
 Enfin, nous avons affiné le mécanisme de fixing et amélioré l'interface utilisateur pour assurer une expérience utilisateur fluide et pour rendre le simulateur aussi réaliste que possible.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lequipedepython/lequipedepythonprojet/main?labpath=finish.ipynb)
