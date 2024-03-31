@@ -13,7 +13,7 @@ Le projet que nous avons choisi, **Sujet C**, porte sur la création d'un **Simu
 
 Nous avons abordé ce projet avec un esprit de collaboration, en utilisant les outils modernes de développement logiciel et de gestion de version tels que Git et GitHub, pour assurer un workflow cohérent et efficace. Notre objectif est de fournir un simulateur qui soit à la fois précis, facile à utiliser et qui reflète fidèlement les nuances des marchés financiers réels.
 
-##Fonctionnalités
+## Fonctionnalités
 Le simultateur comprend :
 - Une gestion précise des ordres d'achat et de vente
 - Un algorithme de matching d'ordres
