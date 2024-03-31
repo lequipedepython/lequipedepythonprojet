@@ -52,5 +52,5 @@ Notre collaboration via GitHub a non seulement démontré notre capacité à tra
 
 Le simulateur que nous avons développé offre une plateforme interactive pour visualiser et analyser le comportement du carnet d'ordres. Il constitue une base solide sur laquelle des fonctionnalités supplémentaires peuvent être construites.
 
-Nous sommes reconnaissantes pour cette opportunité d'appliquer la théorie à la pratique et nous sommes enthousiastes à l'idée de poursuivre le développement de nos compétences en ingénierie financière. Ce projet a non seulement consolidé notre compréhension des marchés financiers électroniques, mais a également stimulé notre intérêt pour l'innovation continue dans le domaine de la finance.
+Nous sommes reconnaissantes pour cette opportunité d'appliquer la théorie à la pratique et nous sommes enthousiastes à l'idée de poursuivre le développement de nos compétences en ingénierie financière. Ce projet a non seulement consolidé notre compréhension des marchés financiers électroniques, mais a également stimulé notre intérêt pour l'innovation continue dans le domaine de la finance. Nous tenons également à remercier notre professeur, Rémi Genet pour son accompagnement pédagogique.
 
