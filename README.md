@@ -34,8 +34,8 @@ Une fois le modèle de données en place, nous avons implémenté la logique pou
 ## Étape 3 : Mécanisme de Fixing
 Ici, nous avons intégré un mécanisme de fixing pour simuler le processus de fixation des prix d'ouverture et de clôture sur les marchés financiers, une étape clé pour les marchés qui ne sont pas continuellement actifs.
 
-### Étape 4 : Interface Utilisateur Simplifiée
+## Étape 4 : Interface Utilisateur Simplifiée
 Pour intéragir avec le simulateur, nous avons créé une interface utilisateur simple, permettant aux utilisateurs de soumettre des ordres et de visualiser le carnet d'ordres en temps réel.
 
-### Étape 5 : Améliorations et Finalisation
+## Étape 5 : Améliorations et Finalisation
 Enfin, nous avons affiné le mécanisme de fixing et amélioré l'interface utilisateur pour assurer une expérience utilisateur fluide et pour rendre le simulateur aussi réaliste que possible.
