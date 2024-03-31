@@ -45,3 +45,12 @@ Enfin, nous avons affiné le mécanisme de fixing et amélioré l'interface util
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lequipedepython/lequipedepythonprojet/main?labpath=finish.ipynb)
 
+## Conclusion
+En conclusion, le projet de création d'un Simulateur de Carnet d'Ordres dans le cadre de notre formation L3 en Économie et Ingénierie Financière a été une expérience enrichissante et éducative. Nous avons pu mettre en pratique nos connaissances théoriques et les renforcer par une application concrète qui implique des compétences en programmation Python et en compréhension des marchés financiers.
+
+Notre collaboration via GitHub a non seulement démontré notre capacité à travailler efficacement en équipe, mais a également permis de maintenir un historique clair de nos contributions individuelles et de notre progression collective. Les outils de développement moderne et les meilleures pratiques de gestion de version ont été essentiels à la réussite de ce projet.
+
+Le simulateur que nous avons développé offre une plateforme interactive pour visualiser et analyser le comportement du carnet d'ordres. Il constitue une base solide sur laquelle des fonctionnalités supplémentaires peuvent être construites.
+
+Nous sommes reconnaissantes pour cette opportunité d'appliquer la théorie à la pratique et nous sommes enthousiastes à l'idée de poursuivre le développement de nos compétences en ingénierie financière. Ce projet a non seulement consolidé notre compréhension des marchés financiers électroniques, mais a également stimulé notre intérêt pour l'innovation continue dans le domaine de la finance.
+
