@@ -35,6 +35,7 @@ Une fois le modèle de données en place, nous avons implémenté la logique pou
 
 ## Étape 3 : Mécanisme de Fixing
 Ici, nous avons intégré un mécanisme de fixing pour simuler le processus de fixation des prix d'ouverture et de clôture sur les marchés financiers, une étape clé pour les marchés qui ne sont pas continuellement actifs.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lequipedepython/lequipedepythonprojet/main?labpath=etape2.ipynb)
 
 ## Étape 4 : Interface Utilisateur Simplifiée
