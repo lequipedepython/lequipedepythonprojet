@@ -40,6 +40,7 @@ Ici, nous avons intégré un mécanisme de fixing pour simuler le processus de f
 
 ## Étape 4 : Interface Utilisateur Simplifiée
 Pour intéragir avec le simulateur, nous avons créé une interface utilisateur simple, permettant aux utilisateurs de soumettre des ordres et de visualiser le carnet d'ordres en temps réel.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lequipedepython/lequipedepythonprojet/main?labpath=etape3.ipynb)
 
 ## Étape 5 : Améliorations et Finalisation
 Enfin, nous avons affiné le mécanisme de fixing et amélioré l'interface utilisateur pour assurer une expérience utilisateur fluide et pour rendre le simulateur aussi réaliste que possible.
