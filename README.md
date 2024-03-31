@@ -28,7 +28,8 @@ Le développement de notre simulateur de carnet d'ordres est divisé en plusieur
 ## Étape 1 : Modèle de Données
 Nous avons commencé par définir les structures de données de base, y compris la représentation des ordres et du carnet d'ordres. Ceci est essentiel pour capturer avec précision les informations du marché et pour assurer une base solide pour le simulateur.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/lequipepython-lequipepythonprojet-iv0qwvnh/doc/tree/etape1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/lequipedepython-lequipepythonprojet-oqsiqdfc/doc/tree/etape1.ipynb)
+
 
 
 ## Étape 2 : Logique de Base du Carnet d'Ordres
