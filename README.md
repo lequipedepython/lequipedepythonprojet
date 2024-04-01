@@ -1,8 +1,8 @@
-# lequipedepythonprojet
+# L'équipe du projet Python
 # Simulateur de carnet d'ordres pour le projet L3 Économie et Ingénierie Financière
 ## Équipe de Développement
 Nous sommes trois étudiantes en troisième année de licence en Économie et Ingénierie Financière :
-- **Ayate KERROUM**
+- **KERROUM Ayate**
 - **LESCHALLIER DE LISLE Diane**
 - **OUAMAASSOU Salwa**
 
