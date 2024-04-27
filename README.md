@@ -21,10 +21,9 @@ Le simultateur comprend :
 - Une interface utilisateur claire et intuitive
 - Un mécanisme de sauvegarde des données
 
-Nous sommes ravies de partager notre travail et nous espérons que ce simulateur servira de référence pour comprendre la complexité et la beauté des systèmes financiers électroniques.
 
 ## Étapes du Projet
-Le développement de notre simulateur de carnet d'ordres est divisé en plusieurs étapes clés, chacune abordant un aspect spécifique de la simulation des marchés financiers.
+Le développement de notre simulateur de carnet d'ordres est divisé en plusieurs étapes clés, chacune abordant un aspect spécifique de la simulation des marchés financiers. Pour enrichir votre expérience et garantir la transparence de notre travail, nous avons intégré des liens **Binder** à chaque phase. Ces liens vous offrent un accès direct et interactif à nos notebooks Jupyter, vous permettant de voir le code en action, de l'explorer, et même de le modifier pour vos propres tests et simulations.
 
 ## Étape 1 : Modèle de Données
 Nous avons commencé par définir les structures de données de base, y compris la représentation des ordres et du carnet d'ordres. Ceci est essentiel pour capturer avec précision les informations du marché et pour assurer une base solide pour le simulateur. Ensuite, nous avons implémenté la logique pour ajouter des ordres au carnet et pour correspondre les ordres entre eux. Cette fonctionnalité est au cœur du simulateur, permettant de simuler la dynamique du marché.
